@@ -97,7 +97,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 plausible:
   enable: true
-  domain: YOUR_DOMAIN
+  domain: blog.error51.de
 
 
 ## Themes: https://hexo.io/themes/
